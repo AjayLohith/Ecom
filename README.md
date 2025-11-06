@@ -145,4 +145,16 @@ npm run dev    # http://localhost:5173
 ## Screenshots
 
 
+### 🏠 Homepage
+![Homepage](https://github.com/AjayLohith/Ecom/blob/main/frontend/src/assets/homepage.png?raw=true)
+
+### 🛒 Cart Page
+![Cart Page](https://github.com/AjayLohith/Ecom/blob/main/frontend/src/assets/cart-page.png?raw=true)
+
+### 💳 Checkout Page
+![Checkout Page](https://github.com/AjayLohith/Ecom/blob/main/frontend/src/assets/checkout-page.png?raw=true)
+
+### 🗄️ MongoDB Data
+![MongoDB Data](https://github.com/AjayLohith/Ecom/blob/main/frontend/src/assets/mongoDb-data.png?raw=true)
+
 
