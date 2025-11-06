@@ -139,7 +139,7 @@ npm run dev    # http://localhost:5173
 
 ## Demo Video
 
-[![Watch the video]](https://www.youtube.com/watch?v=XxtFChB8LFU))
+[[Watch the video]](https://www.youtube.com/watch?v=XxtFChB8LFU))
 
 
 ## Screenshots
