@@ -139,7 +139,8 @@ npm run dev    # http://localhost:5173
 
 ## Demo Video
 
-- Add an unlisted Loom/YouTube link here
+[![Watch the video]](https://www.youtube.com/watch?v=XxtFChB8LFU))
+
 
 ## Screenshots
 
